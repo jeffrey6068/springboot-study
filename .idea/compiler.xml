@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freemarker" />
+        <module name="springboot-jsp" />
+        <module name="springboot-jsp (1)" />
+        <module name="springboot_mvc" />
+        <module name="springboot_mybatis_redis" />
+        <module name="springboot_preface" />
+        <module name="springboot_Views" />
+        <module name="springbootdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="freemarker" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="springboot-demo" target="1.5" />
+      <module name="springboot-jsp" target="1.8" />
+      <module name="springboot-jsp (1)" target="1.8" />
+      <module name="springboot_mvc" target="1.8" />
+      <module name="springboot_mybatis_redis" target="1.8" />
+      <module name="springboot_preface" target="1.8" />
+      <module name="springboot_views" target="1.5" />
+      <module name="springboot_Views" target="1.8" />
+      <module name="springbootdemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

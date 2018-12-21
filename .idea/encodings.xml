@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc/src/main/resources/application.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot_mvc/src/main/webapp/WEB-INF/jsp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_preface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_views" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo" charset="UTF-8" />
+  </component>
+</project>
